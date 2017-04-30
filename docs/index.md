@@ -2,4 +2,9 @@
 layout: default
 title: {{ site.name }}
 ---
-bob
+# Stuff
+
+Stuff in blah
+- bob
+- fred
+
