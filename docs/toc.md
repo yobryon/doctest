@@ -2,12 +2,12 @@ Table of Contents
 =================
 
 Setup
- - [Setting Up Thing](/docs/setup.md)
- - [Setting Up the inner thing](/docs/setup.md)
- - [Setting Up the Browser](/docs/setup.md)
+ - [Setting Up Thing](./setup.md)
+ - [Setting Up the inner thing](./setup.md)
+ - [Setting Up the Browser](./setup.md)
 
 Api
-- [API Documentation](/docs/api.md)
+- [API Documentation](./api.md)
 
 Usage
-- [General Usage](/docs/usage.md)
+- [General Usage](./usage.md)
